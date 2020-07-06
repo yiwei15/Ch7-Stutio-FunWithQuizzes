@@ -1,0 +1,13 @@
+C:\Users\zhaoy\codecamp2020\visual_studio\Quizzes\Quizzes\bin\Debug\netcoreapp3.1\Quizzes.exe
+C:\Users\zhaoy\codecamp2020\visual_studio\Quizzes\Quizzes\bin\Debug\netcoreapp3.1\Quizzes.deps.json
+C:\Users\zhaoy\codecamp2020\visual_studio\Quizzes\Quizzes\bin\Debug\netcoreapp3.1\Quizzes.runtimeconfig.json
+C:\Users\zhaoy\codecamp2020\visual_studio\Quizzes\Quizzes\bin\Debug\netcoreapp3.1\Quizzes.runtimeconfig.dev.json
+C:\Users\zhaoy\codecamp2020\visual_studio\Quizzes\Quizzes\bin\Debug\netcoreapp3.1\Quizzes.dll
+C:\Users\zhaoy\codecamp2020\visual_studio\Quizzes\Quizzes\bin\Debug\netcoreapp3.1\Quizzes.pdb
+C:\Users\zhaoy\codecamp2020\visual_studio\Quizzes\Quizzes\obj\Debug\netcoreapp3.1\Quizzes.csprojAssemblyReference.cache
+C:\Users\zhaoy\codecamp2020\visual_studio\Quizzes\Quizzes\obj\Debug\netcoreapp3.1\Quizzes.AssemblyInfoInputs.cache
+C:\Users\zhaoy\codecamp2020\visual_studio\Quizzes\Quizzes\obj\Debug\netcoreapp3.1\Quizzes.AssemblyInfo.cs
+C:\Users\zhaoy\codecamp2020\visual_studio\Quizzes\Quizzes\obj\Debug\netcoreapp3.1\Quizzes.csproj.CoreCompileInputs.cache
+C:\Users\zhaoy\codecamp2020\visual_studio\Quizzes\Quizzes\obj\Debug\netcoreapp3.1\Quizzes.dll
+C:\Users\zhaoy\codecamp2020\visual_studio\Quizzes\Quizzes\obj\Debug\netcoreapp3.1\Quizzes.pdb
+C:\Users\zhaoy\codecamp2020\visual_studio\Quizzes\Quizzes\obj\Debug\netcoreapp3.1\Quizzes.genruntimeconfig.cache
